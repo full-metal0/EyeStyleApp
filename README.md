@@ -11,7 +11,7 @@ ArchEye - приложение по определению архитектур�
 
 ## Демонстрация 
 
-<img src="Screen%20Recording%202024-11-28%20at%2021.34.18.gif" alt="Описание GIF" width="350" />
+https://github.com/full-metal0/EyeStyleApp/blob/main/Screen%20Recording%202025-03-10%20at%2004.50.09.mp4
 
 ## Функции
 
