@@ -15,7 +15,7 @@ ArchEye - приложение по определению архитектур�
 
 ##### Кастомная камера
 
-[![Кастомная камера](https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/727dca45-8bbf-4af8-b30b-5362b2b3f1be.png)](https://github.com/full-metal0/EyeStyleApp/raw/main/assets/Screen Recording 2025-03-10 at 04.50.09.mp4)
+[![Кастомная камера](https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/727dca45-8bbf-4af8-b30b-5362b2b3f1be.png)](https://github.com/full-metal0/EyeStyleApp/Screen Recording 2025-03-10 at 04.50.09.mp4)
 
 
 
