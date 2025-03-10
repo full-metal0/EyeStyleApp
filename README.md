@@ -11,7 +11,11 @@ ArchEye - приложение по определению архитектур�
 
 ## Демонстрация 
 
-[![Демо](https://github.com/full-metal0/EyeStyleApp/blob/main/Screen%20Recording%202025-03-10%20at%2004.50.09.mp4)](https://github.com/full-metal0/EyeStyleApp/blob/main/Screen%20Recording%202025-03-10%20at%2004.50.09.mp4) 
+<video width="640" height="480" controls>
+  <source src="https://raw.githubusercontent.com/full-metal0/EyeStyleApp/main/Screen%20Recording%202025-03-10%20at%2004.50.09.mp4" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
+</video>
+
 
 ## Функции
 
