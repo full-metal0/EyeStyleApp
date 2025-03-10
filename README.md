@@ -10,11 +10,11 @@ EyeStyle - мобильное приложение для рекомендаци
 
 ## Демонстрация 
 
-Видео-демонстрацию работы можно посмотреть по ссылке https://disk.yandex.ru/i/nz5RKc9SEx-oJA
-
 <img src="https://github.com/user-attachments/assets/5c38e4f8-d936-4c0f-aadc-ba701f14ba08" alt="Simulator Screenshot - iPhone 16 Pro - 2024-11-28 at 21 07 13" width="200">
 
 <img src="https://github.com/user-attachments/assets/62ba8949-eac4-49b9-9845-687572640dee" alt="Simulator Screenshot - iPhone 16 Pro - 2024-11-28 at 21 07 32" width="200">
+
+
 
 https://github.com/user-attachments/assets/ffc1208e-56c4-4f2c-aa3c-b183c1d52d9b
 
